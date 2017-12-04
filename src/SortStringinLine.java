@@ -1,4 +1,3 @@
-
 public class SortStringinLine {
 
 	public static void main(String[] args) {
